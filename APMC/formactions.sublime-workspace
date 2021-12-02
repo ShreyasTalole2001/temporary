@@ -1,0 +1,562 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"fo",
+				"for\tfor …"
+			],
+			[
+				"Co",
+				"Course"
+			],
+			[
+				"Cou",
+				"Course1"
+			],
+			[
+				"No",
+				"NoOfCourses"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"N",
+				"NoOfCourses"
+			],
+			[
+				"Cour",
+				"Course"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"ec",
+				"echo\t<?php echo … ?>"
+			],
+			[
+				"Sch",
+				"SchoolName"
+			],
+			[
+				"Full",
+				"FullName"
+			],
+			[
+				"FU",
+				"FullName"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"botto",
+				"border-bottom\tproperty"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"Con",
+				"container_fluid"
+			],
+			[
+				"P",
+				"PasswordC"
+			],
+			[
+				"Mo",
+				"MobileNo"
+			],
+			[
+				"Pa",
+				"PasswordC"
+			],
+			[
+				"M",
+				"MobileNo"
+			],
+			[
+				"pass",
+				"PasswordC"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"La",
+				"LastName"
+			],
+			[
+				"Fi",
+				"FirstName"
+			],
+			[
+				"First",
+				"FirstName"
+			],
+			[
+				"Fir",
+				"First_Name"
+			],
+			[
+				"le",
+				"border-left\tproperty"
+			],
+			[
+				"bod",
+				"border-right\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"ro",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"wr",
+				"wrap-reverse\tflex-wrap"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"po",
+				"position\tproperty"
+			],
+			[
+				"conta",
+				"container_fluid"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"glo",
+				"globleemail"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"fl",
+				"flex\tdisplay"
+			],
+			[
+				"s",
+				"sans-serif\tfont-family"
+			],
+			[
+				"images",
+				"imagesection"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"clm",
+				"clm1"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"Age",
+				"AgeTo"
+			],
+			[
+				"A",
+				"AgeTo"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"loo",
+				"LookingFor"
+			],
+			[
+				"Lo",
+				"Location"
+			],
+			[
+				"lo",
+				"LookingFor"
+			],
+			[
+				"border-",
+				"border-style\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"Loo",
+				"LookingFor"
+			],
+			[
+				"h",
+				"hidden\tvisibility"
+			],
+			[
+				"jq",
+				"jquery"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"Ci",
+				"City"
+			],
+			[
+				"C",
+				"ContactNumber"
+			],
+			[
+				"S",
+				"State"
+			],
+			[
+				"An",
+				"AnnualIncome"
+			],
+			[
+				"F",
+				"Friend"
+			],
+			[
+				"Ma",
+				"MartialStatus"
+			],
+			[
+				"H",
+				"Height"
+			],
+			[
+				"Profile",
+				"ProfileCreatedFor"
+			],
+			[
+				"Fu",
+				"FullName"
+			],
+			[
+				"mal",
+				"Mail"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"co",
+				"complexion"
+			],
+			[
+				"de",
+				"details\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"data",
+				"datalist\tTag"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"after",
+				"break-after\tproperty"
+			],
+			[
+				"it",
+				"align-items\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/LevaBandhan2/find.php",
+		"/C/xampp/htdocs/jigyasa/profile.php",
+		"/C/xampp/htdocs/jigyasa/video.php",
+		"/C/xampp/htdocs/jigyasa/dashbord.php",
+		"/C/xampp/htdocs/jigyasa/login.php",
+		"/C/xampp/htdocs/jigyasa/register.php",
+		"/C/xampp/htdocs/jigyasa/index2.php",
+		"/C/Users/one/Desktop/dashbordbackup.php",
+		"/C/xampp/htdocs/LevaBandhan2/profile.php",
+		"/C/xampp/htdocs/jigyasa/logout.php",
+		"/C/xampp/htdocs/LevaBandhan2/login.php",
+		"/C/xampp/htdocs/LevaBandhan2/signup.php",
+		"/C/Users/one/myfirst.js",
+		"/C/xampp/htdocs/jigyasa/database.php",
+		"/C/xampp/htdocs/LevaBandhan2/dbconnection.php",
+		"/C/xampp/htdocs/LevaBandhan2/index.php",
+		"/C/xampp/htdocs/jigyasa/index.php",
+		"/C/xampp/htdocs/New/index.php",
+		"/C/xampp/htdocs/LevaBandhan/index.php",
+		"/C/xampp/htdocs/APMC/index.php",
+		"/C/xampp/htdocs/trial.php",
+		"/C/xampp/htdocs/New/resultpage.php",
+		"/C/xampp/htdocs/New/find.php",
+		"/C/xampp/htdocs/New/profile.php",
+		"/C/xampp/htdocs/New/chooseplan.php",
+		"/C/xampp/htdocs/New/signup.php",
+		"/C/xampp/htdocs/New/login.php",
+		"/C/xampp/htdocs/New/dbconnection.php",
+		"/C/xampp/htdocs/APMC/newpage.php",
+		"/C/xampp/htdocs/APMC/loginform.php",
+		"/C/xampp/htdocs/APMC/imagesection.html",
+		"/C/xampp/htdocs/APMC/formactions.php",
+		"/C/xampp/htdocs/APMC/aboutsanchalakmandal.html",
+		"/C/xampp/htdocs/APMC/aboutkarmachari.html",
+		"/C/xampp/htdocs/APMC/about.html",
+		"/C/xampp/htdocs/LevaBandhan/findpage.php",
+		"/C/xampp/htdocs/LevaBandhan/dbconnection.php",
+		"/C/xampp/htdocs/LevaBandhan/UpdatedProfilePage.php",
+		"/C/xampp/htdocs/LevaBandhan/profilepage.php",
+		"/C/xampp/htdocs/LevaBandhan/plans.php",
+		"/C/xampp/htdocs/LevaBandhan/signup.php",
+		"/C/xampp/htdocs/LevaBandhan/login.php",
+		"/C/xampp/htdocs/New/imageuploadtry.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" <p> <small>PRACTICE</small> </p>",
+			"']);\n",
+			"disabled",
+			"container",
+			"prashant",
+			"कर्मचारी",
+			"प्रशांत तळोले",
+			"कर्मचारी",
+			"प्रशांत तळोले",
+			"prashant",
+			"red"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "formactions.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
